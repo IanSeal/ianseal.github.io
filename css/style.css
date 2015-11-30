@@ -1,5 +1,6 @@
 #wrapper{
 	width: 1024px;
+	margin: 0px auto;
 }
 
 #header{
@@ -26,7 +27,6 @@
 #mainCont{
 	background-color: #ffcc99;
 	float: left;
-	width: 100%;
 }
 
 #asideR{
