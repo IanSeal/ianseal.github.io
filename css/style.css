@@ -1,5 +1,5 @@
 #wrapper{
-
+	width: 1024px;
 }
 
 #header{
@@ -20,6 +20,7 @@
 
 #asideL{
 	background-color: #ff9933;
+	float: left;
 }
 
 #mainCont{
@@ -28,6 +29,7 @@
 
 #asideR{
 	background-color: #ff6666;
+	float: right;
 }
 
 #footer{
